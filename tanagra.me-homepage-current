@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      href="../assets/icon/cloudinary_favicon_32x32.png"
+      rel="icon"
+      sizes="32x32"
+      type="image/png"
+    />
+    <style>
+      img {
+        width: 250px;
+        height: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Tanagra.me current images - homepage</h1>
+    <div>
+      <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Library-Sites-TanagraSharedLibrary/default/dw8b0ced43/homepage-pd/Hero-Banners/statement-vases-Hero-Banner-Desktop-1440-x-380.jpg"
+        alt=""
+      />
+      <img
+        src="	https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw2944120e/images/medium/2/8/2812667.jpg?sw=300&sh=300"
+        alt=""
+      />
+      <img
+        src="	https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw061cbc9a/images/medium/2/8/2812667_2.jpg?sw=300&sh=300"
+        alt=""
+      />
+      <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dwe1338f8d/images/medium/0/0/0065636_2_.jpg?sw=300&sh=300"
+        alt=""
+      />
+      <img
+        src="	https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw496da663/images/medium/0/0/0065636.jpg?sw=300&sh=300"
+        alt=""
+      />
+      <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw106aaf92/images/366615696217_2.jpg?sw=300&sh=300"
+        alt=""
+      />
+      <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw3d49e0d2/images/366615696217_1.jpg?sw=300&sh=300"
+        alt=""
+      />
+        />
+      <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw7bf7943c/images/008315146553_1.png?sw=300&sh=300"
+        alt=""
+      />
+       <img
+        src="	https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw3b0a3eda/images/143615409765_1.jpg?sw=300&sh=300"
+        alt=""
+      />
+      
+       <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw77e85266/images/143615409765_2.jpg?sw=300&sh=300"
+        alt=""
+      />
+       <img
+        src="	https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Library-Sites-TanagraSharedLibrary/default/dwb102c984/homepage-pd/Baobab-Postsale-May22/Gift-in-3-hrs-EN-Desktop.jpg"
+        alt=""
+      />
+       <img
+        src="	https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Library-Sites-TanagraSharedLibrary/default/dw4338d940/homepage-pd/Baobab-Postsale-May22/glassware-baccarat.jpg"
+        alt=""
+      />
+       <img
+        src="	https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Library-Sites-TanagraSharedLibrary/default/dw93c81553/homepage-pd/Baobab-Postsale-May22/figurines-lladro2.jpg"
+        alt=""
+      />
+       <img
+        src="	https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Library-Sites-TanagraSharedLibrary/default/dw6888de52/homepage-pd/Baobab-Postsale-May22/diffusers2-agraria.jpg"
+        alt=""
+      />
+        <img
+        src="	https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Library-Sites-TanagraSharedLibrary/default/dwf486fe04/homepage-pd/Baobab-Postsale-May22/Candle-Holder-Johnathan-Adler.jpg"
+        alt=""
+      />
+        <img
+        src="	https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Library-Sites-TanagraSharedLibrary/default/dw861b0def/homepage-pd/Baobab-Postsale-May22/Cutlery2-christofle.jpg"
+        alt=""
+      />
+        <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Library-Sites-TanagraSharedLibrary/default/dw3ca78b41/homepage-pd/Baobab-Postsale-May22/dinnerware-seletti.jpg"
+        alt=""
+      />
+        <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Library-Sites-TanagraSharedLibrary/default/dw29154555/homepage-pd/Baobab-Postsale-May22/lobjet-vase-1124X684.jpg"
+        alt=""
+      />
+        <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Library-Sites-TanagraSharedLibrary/default/dw9a769808/homepage-pd/Baobab-Postsale-May22/Daum-vase-1124X684.jpg"
+        alt=""
+      />
+        <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw7114fe88/images/00-AR%20Models/020214551857_1.jpg?sw=300&sh=300"
+        alt=""
+      />
+        <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw6e572721/images/medium/2/7/27569-_a_.png?sw=300&sh=300"
+        alt=""
+      />
+        <img
+        src="	https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw48ee3505/images/medium/2/7/27569-_b_.png?sw=300&sh=300"
+        alt=""
+      />
+       <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw7701f1d9/images/008315146544_1.png?sw=300&sh=300"
+        alt=""
+      />
+       <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw9532dad3/images/hi-res/Tanagra19961.jpg?sw=300&sh=300"
+        alt=""
+      />
+       <img
+        src="	https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw148bb98d/images/hi-res/Tanagra19960.jpg?sw=300&sh=300"
+        alt=""
+      />
+       <img
+        src="https://www.tanagra.me/dw/image/v2/BDCL_PRD/on/demandware.static/-/Sites-tanagra-master-catalog/default/dw3964d92b/images/medium/2/8/2813507.jpg?sw=300&sh=300"
+        alt=""
+      />
+      
+      
+    </div>
+  </body>
+</html>
